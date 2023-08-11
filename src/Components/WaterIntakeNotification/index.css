@@ -1,0 +1,7 @@
+/* src/components/WaterIntakeNotification.css */
+.notification {
+  background-color: #90caf9;
+  color: #333;
+  padding: 1rem;
+  border-radius: 8px;
+}

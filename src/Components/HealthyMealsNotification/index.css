@@ -1,0 +1,7 @@
+/* src/components/HealthyMealsNotification.css */
+.notification {
+  background-color: #f4d160;
+  color: #333;
+  padding: 1rem;
+  border-radius: 8px;
+}
